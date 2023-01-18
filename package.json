@@ -1,7 +1,7 @@
 {
   "name": "cypresscucumber-toolsqa",
   "version": "2.2.0",
-  "description": "Automatizando ToolsQA para realizar una prueba técnica - Equifax",
+  "description": "Automatizando ToolsQA",
   "main": "index.js",
   "scripts": {
     "cypress:runner": "cypress open --e2e --browser chrome",
@@ -15,7 +15,7 @@
   "keywords": [
     "cypress"
   ],
-  "author": "cucumber",
+  "author": "Vanessa San Martín",
   "license": "ISC",
   "devDependencies": {
     "@4tw/cypress-drag-drop": "^2.2.3",
