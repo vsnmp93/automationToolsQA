@@ -1,0 +1,45 @@
+{
+  "typeBtnElement": ":nth-child(1) > :nth-child(1) > .card-body > h5",
+  "typeBtnWebTables": ":nth-child(1) > .element-list > .menu-list > #item-3",
+
+  "editBtn": "#edit-record-1 > svg",
+  "editFirstName": {
+    "input": "#firstName",
+    "data": {
+      "valid": "Daniela"
+    }
+  },
+
+  "editLastName": {
+    "input": "#lastName",
+    "data": {
+      "valid": "Arriagada"
+    }
+  },
+  "editUserEmail": {
+    "input": "#userEmail",
+    "data": {
+      "valid": "daniarriagada@test.com"
+    }
+  },
+  "editAge": {
+    "input": "#age",
+    "data": {
+      "valid": "22"
+    }
+  },
+  "editSalary": {
+    "input": "#salary",
+    "data": {
+      "valid": "900000"
+    }
+  },
+  "editDepartment": {
+    "input": "#department",
+    "data": {
+      "valid": "Finanzas"
+    }
+  },
+
+  "submitForm": "#submit"
+}
